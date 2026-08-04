@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "ISPCC-3SIMM: Intentional Symbolic Pre-Cognitive Computing Framework"
+message: "If you use this framework, please cite it as below."
+type: software
+authors:
+  - family-names: Vaduva
+    given-names: Radu-Andrei
+date-released: 2026-08-03
+license: MIT
+repository-code: "https://github.com/Radu2914/ISPCC-3SIMM"
+abstract: >
+  Intentional Symbolic Pre-Cognitive Computing framework implementing
+  the 3-Stage Intentional MaxiMin method. Variables are classified by
+  dynamical character (π-type cascade, e-type equilibrium) and encoded
+  with transcendental basis functions derived from dynamical systems
+  theory before any learning algorithm engages.
